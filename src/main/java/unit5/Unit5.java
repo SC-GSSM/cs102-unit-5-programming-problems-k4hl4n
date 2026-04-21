@@ -22,7 +22,7 @@ public class Unit5 {
         // Unit5 obj = new Unit5("Alice", 25);
         // System.out.println("getName() = " + obj.getName());  // Expected: Alice
         // System.out.println("getAge() = " + obj.getAge());    // Expected: 25
-        // System.out.println("toString() = " + obj);           // Expected: Unit5[name=Alice, age=25]
+        // System.out.println("toString() = " + obj);           // Expected: Unit5{name='Alice', age=25}
         System.out.println("Implement the class below, then uncomment the test code above.");
     }
 
